@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firdaus Aulia Faza</h1>
-<h3 align="center">Currently I'm enjoying learning quality assurance and data science</h3>
+<h3 align="center">Currently I'm enjoying learning Software Testing and Data Sciene</h3>
 
 - 🌱 I’m currently learning **Cypress**
 
