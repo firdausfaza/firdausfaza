@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Firdaus Aulia Faza</h1>
 <h3 align="center">Currently I'm enjoying learning Software Testing and Data Sciene</h3>
 
-- 🌱 I’m currently learning **Cypress**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Software Testing**
 
 - 📫 How to reach me **firdausauliafaza@gmail.com**
 
